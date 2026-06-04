@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Virat loans related QA APIs "
+  contactDetails:
+    name: "rahul - QA Lead"
+    email: "kl@viratbank.com"
+  onCallSupport:
+    - (85) 5456565
+    - (53) 5463467

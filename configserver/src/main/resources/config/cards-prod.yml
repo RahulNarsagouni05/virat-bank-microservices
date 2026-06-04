@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Hey, welcome to ViratBank cards related prod APIs"
+  contactDetails:
+    name: "Dhoni - Product Owner"
+    email: "dhoni07@viratbank.com"
+  onCallSupport:
+    - (91) 4000400
+    - (93) 4000700

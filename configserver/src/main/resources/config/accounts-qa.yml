@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Virat accounts related QA APIs "
+  contactDetails:
+    name: "Rohit - Testing Lead"
+    email: "rohit@viratbank.com"
+  onCallSupport:
+    - (91) 45454545
+    - (91) 45454544

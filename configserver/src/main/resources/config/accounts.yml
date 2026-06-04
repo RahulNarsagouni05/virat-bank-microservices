@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Virat accounts related docker APIs "
+  contactDetails:
+    name: "kohli - Developer"
+    email: "vk18@virat.com"
+  onCallSupport:
+    - (91) 18181818
+    - (91) 18181845

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Hey, welcome to Virat accounts related webhook APIs"
+  contactDetails:
+    name: "Kohli - Product Owner"
+    email: "{cipher}0b57b0d38092130185507d14c4b4e71cc39303d3a3341999aad6ffe12b1f12eb0d0da4e466816736dc72d348a27b5072"
+  onCallSupport:
+    - (91) 900000900
+    - (91) 900008080

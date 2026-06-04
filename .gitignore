@@ -1,0 +1,38 @@
+# ==========================================
+# Java / Spring Boot / Build Artifacts
+# ==========================================
+**/target/
+**/build/
+*.jar
+*.war
+*.class
+
+# ==========================================
+# Security & Environment Variables
+# ==========================================
+# This ensures your passwords and GitHub tokens never leak!
+.env
+
+# ==========================================
+# IDE Specific Files (IntelliJ, VS Code, Eclipse)
+# ==========================================
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+*.sublime-project
+
+# ==========================================
+# Operating System Files
+# ==========================================
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Application Logs & Docker Data
+# ==========================================
+*.log
+**/mysql_data/
+**/.data/

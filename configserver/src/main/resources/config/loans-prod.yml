@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Hey, welcome to ViratBank loans related prod APIs "
+  contactDetails:
+    name: "Gill - Product Owner"
+    email: "gillsara@viratbank.com"
+  onCallSupport:
+    - (23) 6568710
+    - (56) 3420900
